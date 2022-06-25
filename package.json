@@ -15,7 +15,7 @@
     "dateformat": "^3.0.3",
     "discord.js": "^11.5.1",
     "discord.js-lavalink": "^2.2.3",
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^2.6.7",
     "overwatch-api": "^0.8.2",
     "simple-fortnite-api": "^0.1.9",
     "superagent": "^5.1.3",
